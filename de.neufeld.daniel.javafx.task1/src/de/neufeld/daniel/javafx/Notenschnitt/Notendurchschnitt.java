@@ -28,7 +28,7 @@ import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 import javafx.util.Callback;
 
-public class notendurchschnitt extends Application {
+public class Notendurchschnitt extends Application {
 
 
 	public static class TableData {

@@ -3,6 +3,6 @@
   <fragments xsi:type="fragment:StringModelFragment" xmi:id="_EQmfUGouEeOey8fzCPOIww" featurename="children" parentElementId="de.neufeld.daniel.javafx.app.partstack.0">
     <elements xsi:type="basic:Part" xmi:id="_K-90wGouEeOey8fzCPOIww" elementId="de.neufeld.daniel.javafx.task1.part.0" contributionURI="bundleclass://de.neufeld.daniel.javafx.task1/de.neufeld.daniel.javafx.task1.Task1" label="Task1"/>
     <elements xsi:type="basic:Part" xmi:id="_S4EAgIKvEeO_Sc7OZyKN6Q" elementId="de.neufeld.daniel.javafx.task1.part.1" label="Notendurchschnitt"/>
-    <elements xsi:type="basic:Part" xmi:id="_LJ7kcJjaEeOcz4-wph3Pvg" elementId="de.neufeld.daniel.javafx.task1.part.2" contributionURI="bundleclass://de.neufeld.daniel.javafx.task1/de.neufeld.daniel.javafx.Notenschnitt.notendurchschnitt" label="Editablegridtest"/>
+    <elements xsi:type="basic:Part" xmi:id="_LJ7kcJjaEeOcz4-wph3Pvg" elementId="de.neufeld.daniel.javafx.task1.part.2" contributionURI="bundleclass://de.neufeld.daniel.javafx.task1/de.neufeld.daniel.javafx.Notenschnitt.Notendurchschnitt" label="Editablegridtest"/>
   </fragments>
 </fragment:ModelFragments>
