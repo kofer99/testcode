@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Task1
+Bundle-SymbolicName: de.neufeld.daniel.javafx.task1;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.e4.ui.workbench;bundle-version="1.0.1",
+ javax.inject
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: javafx.application;version="2.2.0",
+ javafx.collections;version="2.2.0",
+ javafx.geometry;version="2.2.0",
+ javafx.scene;version="2.2.0",
+ javafx.scene.control;version="2.2.0",
+ javafx.scene.layout;version="2.2.0",
+ javafx.scene.text;version="2.2.0"
